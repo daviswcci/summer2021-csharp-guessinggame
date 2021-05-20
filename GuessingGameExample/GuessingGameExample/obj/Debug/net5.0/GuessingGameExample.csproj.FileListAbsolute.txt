@@ -1,0 +1,16 @@
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\bin\Debug\net5.0\GuessingGameExample.exe
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\bin\Debug\net5.0\GuessingGameExample.deps.json
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\bin\Debug\net5.0\GuessingGameExample.runtimeconfig.json
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\bin\Debug\net5.0\GuessingGameExample.runtimeconfig.dev.json
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\bin\Debug\net5.0\GuessingGameExample.dll
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\bin\Debug\net5.0\ref\GuessingGameExample.dll
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\bin\Debug\net5.0\GuessingGameExample.pdb
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\obj\Debug\net5.0\GuessingGameExample.csprojAssemblyReference.cache
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\obj\Debug\net5.0\GuessingGameExample.GeneratedMSBuildEditorConfig.editorconfig
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\obj\Debug\net5.0\GuessingGameExample.AssemblyInfoInputs.cache
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\obj\Debug\net5.0\GuessingGameExample.AssemblyInfo.cs
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\obj\Debug\net5.0\GuessingGameExample.csproj.CoreCompileInputs.cache
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\obj\Debug\net5.0\GuessingGameExample.dll
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\obj\Debug\net5.0\ref\GuessingGameExample.dll
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\obj\Debug\net5.0\GuessingGameExample.pdb
+S:\WCCI\2021 Summer Cohort\gue\GuessingGameExample\GuessingGameExample\obj\Debug\net5.0\GuessingGameExample.genruntimeconfig.cache
